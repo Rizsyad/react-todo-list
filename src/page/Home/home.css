@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@200;300;400;500;700&display=swap');
+
+body {
+    background-color: #012443;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+body h1 {
+    color: #fff;
+}
